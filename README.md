@@ -1,4 +1,4 @@
-# Artscope
+# Artscape
 
 An art-centered  social media search engine application with AI capabilities.
 
